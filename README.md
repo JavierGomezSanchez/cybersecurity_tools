@@ -8,7 +8,7 @@
 <b>Headers</b>
 <li>https://securityheaders.com/</li>
 <li>https://www.ssllabs.com/ssltest/</li>
-<li>Ssltest</li>
+<li>TestSSL</li>
 <li>Sslscan</li>
 <br>
 
