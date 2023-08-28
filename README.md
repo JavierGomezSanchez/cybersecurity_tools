@@ -1,3 +1,4 @@
+<h1>Offensive</h1>
 <b> Vuln detection </b>
 <li><a href="https://es-la.tenable.com/products/nessus/nessus-essentials">Nessus</a></li>
 <li><a href="https://openvas.org/">Openvas</a></li>
@@ -45,3 +46,26 @@
 <b>Search engines</b>
 <li><a href="https://shodan.io">Shodan</a></li>
 <li><a href="https://search.censys.io/">Censys</a></li>
+
+
+<h1>Deffensive</h1>
+
+<b>Antivirus/Antirootkit</b>
+<li>Clamav</li>
+<li>RKHunter</li>
+<br>
+
+<b>Security Evaluation</b>
+<li>Debsecan</li>
+<li>Lynis</li>
+<br>
+
+<b>IDS</b>
+<li>Snort</li>
+<br>
+
+<b>WAF</b>
+<li>ModSecurity</li>
+<br>
+
+
