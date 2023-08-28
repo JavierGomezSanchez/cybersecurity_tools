@@ -78,11 +78,11 @@
 <br>
 
 <b>WAF</b>
-<li><a href="https://github.com/JavierGomezSanchez/mod_security/edit/main/README.md">ModSecurity</a></li>
+<li><a href="https://github.com/JavierGomezSanchez/mod_security">ModSecurity</a></li>
 <br>
  
 <b>Secure Headers</b>
-<li><a href="https://github.com/JavierGomezSanchez/mod_headers/edit/main/README.md">Apache mod_headers</a></li>
+<li><a href="https://github.com/JavierGomezSanchez/mod_headers">Apache mod_headers</a></li>
 
 
 
