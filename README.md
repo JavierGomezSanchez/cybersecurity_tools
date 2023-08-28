@@ -1,34 +1,49 @@
-Vuln detection
-Nessus
-Openvas
-OwaspZap
-BurpSuite
-Headers
-https://securityheaders.com/?q=securityheaders.io&followRedirects=on
-https://www.ssllabs.com/ssltest/
-Ssltest
-Sslscan
-Brute force
-Silverbullet
-JohnTheRipper
-Hydra
-SQL
-SqlMap
-Isql
-Osint / Info gathering
-Maltego
-TheHardvester
-XSublist3r
-Scamalytics
-Subbruto
-Subfinder
-Data leak
-Have i been pwned
-Explotation
-Metasploit
-CobaltStrike
-GMaps API
-https://https://github.com/ozguralp/gmapsapiscanner/
-Search engines
-https://shodan.io
-https://search.censys.io/
+<b> Vuln detection </b>
+<li>Nessus</li>
+<li>Openvas</li>
+<li>OwaspZap</li>
+<li>BurpSuite</li>
+<br>
+  
+<b>Headers</b>
+<li>https://securityheaders.com/</li>
+<li>https://www.ssllabs.com/ssltest/</li>
+<li>Ssltest</li>
+<li>Sslscan</li>
+<br>
+
+<b>Brute force</b>
+<li>Silverbullet</li>
+<li>JohnTheRipper</li>
+<li>Hydra</li>
+<br>
+
+<b>SQL</b>
+<li>SqlMap</li>
+<br>
+  
+<b>Osint / Info gathering</b>
+<li>Maltego</li>
+<li>TheHardvester</li>
+<li>XSublist3r</li>
+<li>Scamalytics</li>
+<li>Subbruto</li>
+<li>Subfinder</li>
+<br>
+
+<b>Data leak</b>
+<li>https://haveibeenpwned.com/</li>
+<br>
+
+<b>Explotation</b>
+<li>Metasploit</li>
+<li>CobaltStrike</li>
+<br>
+
+<b>GMaps API</b>
+<li>https://github.com/ozguralp/gmapsapiscanner/</li>
+<br>
+
+<b>Search engines</b>
+<li>https://shodan.io</li>
+<li>https://search.censys.io/</li>
