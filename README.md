@@ -1,49 +1,47 @@
 <b> Vuln detection </b>
-<li>Nessus</li>
-<li>Openvas</li>
-<li>OwaspZap</li>
-<li>BurpSuite</li>
+<li><a href="https://es-la.tenable.com/products/nessus/nessus-essentials">Nessus</a></li>
+<li><a href="https://openvas.org/">Openvas</a></li>
+<li><a href="https://www.zaproxy.org/">OwaspZap</a></li>
+<li><a href="https://portswigger.net/burp/communitydownload">BurpSuite</a></li>
 <br>
   
 <b>Headers</b>
-<li>https://securityheaders.com/</li>
-<li>https://www.ssllabs.com/ssltest/</li>
-<li>TestSSL https://github.com/drwetter/testssl.sh</li>
-<li>Sslscan https://github.com/rbsec/sslscan</li>
+<li><a href="https://securityheaders.com/">SecurityHeaders</a></li>
+<li><a href="https://www.ssllabs.com/ssltest/">SSLLabs</a></li>
+<li><a href="https://github.com/drwetter/testssl.sh">TestSSL</a> </li>
+<li><a href="https://github.com/rbsec/sslscan">Sslscan</a></li>
 <br>
 
 <b>Brute force</b>
-<li>Silverbullet</li>
-<li>JohnTheRipper</li>
-<li>Hydra</li>
+<li><a href="https://github.com/mohamm4dx/SilverBullet">Silverbullet</a></li>
+<li><a href="https://github.com/openwall/john">JohnTheRipper</a></li>
+<li><a href="https://github.com/vanhauser-thc/thc-hydra">Hydra</a></li>
 <br>
 
 <b>SQL</b>
-<li>SqlMap</li>
+<li><a href="https://github.com/sqlmapproject/sqlmap">SqlMap</a></li>
 <br>
   
 <b>Osint / Info gathering</b>
-<li>Maltego</li>
-<li>TheHardvester</li>
-<li>XSublist3r</li>
-<li>Scamalytics</li>
-<li>Subbruto</li>
-<li>Subfinder</li>
+<li><a href="https://maltego.com">Maltego</a></li>
+<li><a href="https://github.com/laramies/theHarvester">TheHardvester</a></li>
+<li><a href="https://github.com/aboul3la/Sublist3r">Sublist3r</a></li>
+<li><a href="https://github.com/TheRook/subbrute">Subbrute</a></li>
+<li><a href="https://github.com/projectdiscovery/subfinder">Subfinder</a></li>
 <br>
 
 <b>Data leak</b>
-<li>https://haveibeenpwned.com/</li>
+<li><a href="https://haveibeenpwned.com/">HaveIBeenPwned</a></li>
 <br>
 
 <b>Explotation</b>
-<li>Metasploit</li>
-<li>CobaltStrike</li>
+<li><a href="https://www.metasploit.com/">Metasploit</a></li>
 <br>
 
 <b>GMaps API</b>
-<li>https://github.com/ozguralp/gmapsapiscanner/</li>
+<li><a href="https://github.com/ozguralp/gmapsapiscanner/">GMapsApiScanner</a></li>
 <br>
 
 <b>Search engines</b>
-<li>https://shodan.io</li>
-<li>https://search.censys.io/</li>
+<li><a href="https://shodan.io">Shodan</a></li>
+<li><a href="https://search.censys.io/">Censys</a></li>
