@@ -8,8 +8,8 @@
 <b>Headers</b>
 <li>https://securityheaders.com/</li>
 <li>https://www.ssllabs.com/ssltest/</li>
-<li>TestSSL</li>
-<li>Sslscan</li>
+<li>TestSSL https://github.com/drwetter/testssl.sh</li>
+<li>Sslscan https://github.com/rbsec/sslscan</li>
 <br>
 
 <b>Brute force</b>
