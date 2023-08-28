@@ -94,6 +94,11 @@ Temporary block login attempts based on retry and country
 		SecRule REQUEST_METHOD "@streq POST"
 	</LocationMatch>
 
+WAF XSS Bypass encode fix
+
+    SecRule ARGS:searchText "<" "id:200007,phase:1,nolog,deny,ctl:ruleEngine=on,status:403,t:urlDecode"
+    SecRule ARGS:searchText ">" "id:200008,phase:1,nolog,deny,ctl:ruleEngine=on,status:403,t:urlDecode"
+
  Block bot/spyder useragents
 
 	SecRule REQUEST_HEADERS:User-Agent "@contains applebot" "id:'7000001',ctl:ruleEngine=on,t:none,t:lowercase,deny,status:403,log,msg:'ModSecurity BOT or SPYDER detected and Blocked. '"
