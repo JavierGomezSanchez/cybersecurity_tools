@@ -66,7 +66,7 @@
 
 <b>WAF</b>
 <li>ModSecurity</li>
-
+<br>
 Temporary block login attempts based on retry and country
 
 	SecGeoLookupDb /etc/apache2/GeoIP.dat
@@ -93,12 +93,12 @@ Temporary block login attempts based on retry and country
 		SecRule RESPONSE_STATUS "^403" "phase:5,chain,t:none,log,pass,expirevar:ip.bf_block=+30,id:5000136,msg:'ModSecurity IP ADDRESS BLOCKED RETRY %{REMOTE_ADDR} added 30 seconds to block.',"
 		SecRule REQUEST_METHOD "@streq POST"
 	</LocationMatch>
-
+<br>
 WAF XSS Bypass encode fix
 
     SecRule ARGS:searchText "<" "id:200007,phase:1,nolog,deny,ctl:ruleEngine=on,status:403,t:urlDecode"
     SecRule ARGS:searchText ">" "id:200008,phase:1,nolog,deny,ctl:ruleEngine=on,status:403,t:urlDecode"
-
+<br>
  Block bot/spyder useragents
 
 	SecRule REQUEST_HEADERS:User-Agent "@contains applebot" "id:'7000001',ctl:ruleEngine=on,t:none,t:lowercase,deny,status:403,log,msg:'ModSecurity BOT or SPYDER detected and Blocked. '"
