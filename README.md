@@ -30,6 +30,7 @@
 <b>Osint / Info gathering</b>
 <li><a href="https://maltego.com">Maltego</a></li>
 <li><a href="https://github.com/laramies/theHarvester">TheHardvester</a></li>
+<li><a href="https://www.kali.org/tools/dirbuster/">Dirbuster</a></li>
 <li><a href="https://github.com/aboul3la/Sublist3r">Sublist3r</a></li>
 <li><a href="https://github.com/TheRook/subbrute">Subbrute</a></li>
 <li><a href="https://github.com/projectdiscovery/subfinder">Subfinder</a></li>
